@@ -7,6 +7,7 @@ do
 {
     int value = GetInput();
     Console.WriteLine(String.Format("{0,7} {1,7} {2,7}", "Number", "Squared", "Cubed"));
+    Console.WriteLine(String.Format("{0,7} {1,7} {2,7}", "=======", "=======", "======="));
     for (int r = 1; r <= value; r++)
     {
         int number = r;
