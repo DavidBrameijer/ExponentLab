@@ -2,7 +2,6 @@
 
 //setup the loop
 bool runProgram = true;
-int i = 1;
 
 do
 {
