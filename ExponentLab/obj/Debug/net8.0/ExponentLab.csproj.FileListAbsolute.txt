@@ -1,0 +1,15 @@
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\bin\Debug\net8.0\ExponentLab.exe
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\bin\Debug\net8.0\ExponentLab.deps.json
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\bin\Debug\net8.0\ExponentLab.runtimeconfig.json
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\bin\Debug\net8.0\ExponentLab.dll
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\bin\Debug\net8.0\ExponentLab.pdb
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.AssemblyInfoInputs.cache
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.AssemblyInfo.cs
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.csproj.CoreCompileInputs.cache
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.sourcelink.json
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.dll
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\refint\ExponentLab.dll
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.pdb
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ExponentLab.genruntimeconfig.cache
+C:\Users\16167\source\repos\ExponentLab\ExponentLab\obj\Debug\net8.0\ref\ExponentLab.dll
