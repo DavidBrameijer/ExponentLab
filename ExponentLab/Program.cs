@@ -10,9 +10,9 @@ do
     Console.WriteLine(String.Format("{0,7} {1,7} {2,7}", "=======", "=======", "======="));
     for (int r = 1; r <= value; r++)
     {
-        int number = r;
-        int squared = GetSquared(r);
-        int cubed = GetCubed(r);
+        int number = r; // redundant just use r
+        int squared = GetSquared(r); // redundant use method(r)
+        int cubed = GetCubed(r); // redundant use method(r)
         Console.WriteLine(String.Format("{0,7} {1,7} {2,7}", number, squared, cubed));
     }
     runProgram = GetContinue();
@@ -64,12 +64,12 @@ static bool GetContinue()
     return result;
 }
 
-static int GetSquared(int squared)
+static int GetSquared(int x)
 {
-    return squared * squared;
+    return x * x;
 }
 
-static int GetCubed(int cubed)
+static int GetCubed(int x)
 {
-    return cubed * cubed * cubed;
+    return x * x * x;
 }
